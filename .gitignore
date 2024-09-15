@@ -1,3 +1,5 @@
-
-.ipynb_checkpoints
+snapshot_with_ranks_parquet_coalesce_3
+snapshot_with_ranks_parquet
+snapshot_with_ranks_csv
 .DS_Store
+.ipynb_checkpoints
